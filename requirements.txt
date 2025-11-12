@@ -1,0 +1,10 @@
+langchain==0.3.27
+chromadb>=0.4.7
+numpy<2
+pyarrow==14.0.2
+pandas<2
+streamlit==1.51.0
+sentence-transformers
+openai>=1.0.0
+tiktoken
+faiss-cpu
